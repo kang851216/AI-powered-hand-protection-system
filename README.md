@@ -9,7 +9,6 @@ An innovative system designed to enhance workplace safety using AI and automated
 [Click here to watch the test video](https://github.com/kang851216/AI-powered-hand-protection-system/blob/main/test_video.mp4)
 
 ## 📄 Project Documentation
-
 <p align="center">
   <embed src="https://github.com/kang851216/AI-powered-hand-protection-system/raw/main/AI-Driven%20Hand%20Protection%20System.pdf" type="application/pdf" width="100%" height="600px" />
 </p>

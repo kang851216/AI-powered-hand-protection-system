@@ -4,11 +4,9 @@
 
 An innovative system designed to enhance workplace safety using AI and automated document management. This project focuses on protecting workers' hands by analyzing risks and automating safety documentation.
 
-## 📺 Demo Video
+## 📺 Watch the Demo
 
-<video src="https://github.com/kang851216/AI-powered-hand-protection-system/raw/main/test_video.mov" width="100%" controls muted>
-  Your browser does not support the video tag.
-</video>
+[Click here to watch the test video](https://github.com/kang851216/AI-powered-hand-protection-system/blob/main/test_video.mp4)
 
 ## ✨ Key Features
 

@@ -11,6 +11,8 @@ An innovative system designed to enhance workplace safety using AI and automated
 ## 📄 Project Documentation
 [![View PDF](https://img.shields.io/badge/View_Project_Document-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/kang851216/AI-powered-hand-protection-system/blob/main/AI-Driven%20Hand%20Protection%20System.pdf)
 
+[<img src="https://via.placeholder.com/600x400.png?text=Click+to+View+Project+PDF" width="100%">](https://github.com/kang851216/AI-powered-hand-protection-system/blob/main/AI-Driven%20Hand%20Protection%20System.pdf)
+
 ## 🚀 Getting Started
 
 ### Prerequisites

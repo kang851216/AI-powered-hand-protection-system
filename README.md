@@ -8,12 +8,9 @@ An innovative system designed to enhance workplace safety using AI and automated
 
 [Click here to watch the test video](https://github.com/kang851216/AI-powered-hand-protection-system/blob/main/test_video.mp4)
 
-## ✨ Key Features
+## ✨ Introduction and Detailed Feature
 
-* **AI Safety Analysis**: Designed to detect potential hazards in industrial environments.
-* **Automated PDF Stamping**: Uses `PyMuPDF (fitz)` to automatically apply safety stamps and signatures to critical documents.
-* **Web Interface**: A Flask-based dashboard to manage safety logs and ledger entries.
-* **Portable Execution**: Supports bundling into a standalone `.exe` using PyInstaller for easy distribution.
+[Click here to download pdf](https://github.com/kang851216/AI-powered-hand-protection-system/blob/main/AI-Driven Hand Protection System.pdf)
 
 ## 🚀 Getting Started
 

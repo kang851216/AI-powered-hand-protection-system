@@ -1,8 +1,6 @@
 # AI-powered Hand Protection System 🛡️
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue.svg)
-![Framework](https://img.shields.io/badge/Framework-Flask-red.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 An innovative system designed to enhance workplace safety using AI and automated document management. This project focuses on protecting workers' hands by analyzing risks and automating safety documentation.
 

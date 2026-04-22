@@ -6,7 +6,7 @@ An innovative system designed to enhance workplace safety using AI and automated
 
 ## 📺 Demo Video
 
-<video src="https://github.com/kang851216/AI-powered-hand-protection-system/raw/main/test_video.mp4" width="100%" controls muted>
+<video src="https://github.com/kang851216/AI-powered-hand-protection-system/raw/main/test_video.mov" width="100%" controls muted>
   Your browser does not support the video tag.
 </video>
 
